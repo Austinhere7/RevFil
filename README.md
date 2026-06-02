@@ -1,10 +1,10 @@
-# *RevFil*
+`# *RevFil*
 
 ## *Smart Product Review Sentiment & Authenticity Analyzer*
 
 *RevFil* is a smart product review analysis platform designed to help online buyers make better purchasing decisions. The platform analyzes customer reviews from e-commerce websites such as Amazon and Flipkart to understand overall customer opinion, identify fake or bot-generated reviews, and determine whether a product is genuinely trustworthy.
 
-In today’s online shopping environment, many products contain manipulated ratings and misleading reviews that can confuse buyers. *RevFil* aims to solve this problem by providing a clearer and more reliable understanding of product quality based on real customer experiences.
+In today’s online shopping environment, many products contain manipulated or ungenuine ratings and misleading reviews that can confuse buyers. *RevFil* aims to solve this problem by providing a clearer and more reliable understanding of product quality based on real customer experiences.
 
 ---
 
